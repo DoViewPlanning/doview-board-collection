@@ -51,8 +51,15 @@
   {
     "title": "Toyota DoView Board",
     "description": "A public DoView Board mapping Toyota into DoView Board structure.",
-    "file": "boards/toyota-doview-board-dr-paul-duignan-doviewplanning-org-a074.html",
+    "file": "boards/toyota-doview-board-dr-paul-duignan-doviewplanning-org-a074(1).html",
     "topic": "Toyota",
+    "date": "2026-06-04"
+  },
+  {
+    "title": "EU Directorate-General for Digital Services (DG-DIGIT) Contribution to EU Commission Priorities 2024-2029",
+    "description": "A public DoView Board mapping DG-DIGIT's contribution to EU Commission priorities 2024-2029 into DoView Board structure.",
+    "file": "boards/eu-directorate-general-for-digital-services-dg-digit-contribution-to-eu-commission-priorities-2004-2029-doview-board-dr-paul-duignan-doviewplanning-org-a075.html",
+    "topic": "DG-DIGIT contribution to EU Commission priorities 2024-2029",
     "date": "2026-06-04"
   }
 ]
