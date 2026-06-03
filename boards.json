@@ -26,5 +26,12 @@
     "file": "boards/uk-government-plan-for-change-and-five-missions-doview-board-dr-paul-duignan-doviewplanning-org-a041.html",
     "topic": "UK Government Plan for Change and five missions",
     "date": "2026-06-02"
+  },
+  {
+    "title": "Space-Based Infrastructure Research Domain DoView Board",
+    "description": "A public DoView Board mapping the space-based infrastructure research domain into DoView Board structure.",
+    "file": "boards/space-based-infrastructure-research-domain-doview-board-dr-paul-duignan-doviewplanning-org-a030.html",
+    "topic": "Space-based infrastructure research",
+    "date": "2026-06-02"
   }
 ]
