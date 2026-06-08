@@ -1,0 +1,29 @@
+{
+  "collections": [
+    {
+      "title": "European Union",
+      "href": "european-union/",
+      "count": "1 board"
+    },
+    {
+      "title": "Large Companies",
+      "href": "large-companies/",
+      "count": "3 boards"
+    },
+    {
+      "title": "International Cooperation",
+      "href": "international-cooperation/",
+      "count": "1 board"
+    },
+    {
+      "title": "Research",
+      "href": "research/",
+      "count": "1 board"
+    },
+    {
+      "title": "Generic",
+      "href": "generic/",
+      "count": "1 board"
+    }
+  ]
+}
