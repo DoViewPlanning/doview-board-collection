@@ -1,5 +1,11 @@
 {
+  "version": "v1.2.1",
   "collections": [
+    {
+      "title": "NZ Government",
+      "href": "nz-government/",
+      "count": "1 apex · 20 agency boards"
+    },
     {
       "title": "European Union",
       "href": "european-union/",
@@ -16,13 +22,13 @@
       "count": "1 board"
     },
     {
-      "title": "Research",
-      "href": "research/",
+      "title": "Research Domains",
+      "href": "research-domains/",
       "count": "1 board"
     },
     {
-      "title": "Generic",
-      "href": "generic/",
+      "title": "Generic Initiatives",
+      "href": "generic-initiatives/",
       "count": "1 board"
     }
   ]

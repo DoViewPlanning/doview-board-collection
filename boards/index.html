@@ -23,6 +23,7 @@
     .hdr-right{display:flex;align-items:center;justify-content:flex-end;gap:11px;flex-wrap:wrap}
     .hdr-brand-line{display:flex;align-items:baseline;gap:7px;white-space:nowrap}
     .hdr-tagline{color:#fff;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;opacity:.9}
+    .hdr-version-chip{display:inline-flex;align-items:center;justify-content:center;color:#fff;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.75);border-radius:999px;padding:3px 9px;font-size:11px;font-weight:800;letter-spacing:.3px}
     .hdr-badge{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;
       background:var(--orange);color:#fff;border:1.5px solid #fff;border-radius:8px;padding:5px 12px;margin-top:5px;
       font-weight:700;line-height:1.25;text-align:center;letter-spacing:.2px}
@@ -34,17 +35,17 @@
     .hdr-binfo:hover{color:#fff}
     .hdr-sep{width:1px;height:16px;background:rgba(255,255,255,.5);display:inline-block;flex:0 0 auto}
 
-    .page-info-bar{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;
-      padding:8px 28px;background:#fff;border-bottom:1px solid var(--bdr);font-size:13px;color:var(--text2);flex-shrink:0}
-    .crumbs{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-    .coll-tag{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:700;letter-spacing:.3px;
+    .page-info-bar{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+      padding:12px 28px;background:#fff;border-bottom:1px solid var(--bdr);font-size:16px;color:var(--text2);flex-shrink:0}
+    .crumbs{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:16px}
+    .coll-tag{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:700;letter-spacing:.3px;
       color:#475569;background:#f1f5f9;border:1px solid var(--bdr);border-radius:999px;padding:3px 9px}
-    .coll-tag svg{width:13px;height:13px}
+    .coll-tag svg{width:16px;height:16px}
     .crumbs a,.crumbs a:visited{color:var(--od);text-decoration:none}
     .crumbs a:hover{text-decoration:underline;text-underline-offset:2px}
     .crumbs .sep{color:#cbd5e1}
-    .crumbs .current{color:#0f172a;font-weight:700}
-    .status{font-style:italic;color:var(--text2);font-size:13px;white-space:nowrap}
+    .crumbs .current{color:#0f172a;font-weight:800}
+    .status{font-style:italic;color:var(--text2);font-size:15px;white-space:nowrap}
 
     .wrap{width:100%;max-width:1320px;margin:0 auto;padding:24px 34px 30px;flex:1}
     .lede{font-size:14px;color:var(--text2);max-width:680px;margin:0 0 22px;line-height:1.5}
@@ -91,6 +92,7 @@
       </div>
       <div class="hdr-right">
         <div class="hdr-brand-line"><span class="hdr-tagline">See. Plan. Do.™</span></div>
+        <span class="hdr-version-chip">v1.2.1</span>
         <div class="hdr-badge" title="Official DoView® Badge — Standards-Compliant Board Structure">
           <div class="hdr-badge-l1">Official DoView® Badge</div>
           <div class="hdr-badge-l2">Standards-Compliant Board Structure</div>
