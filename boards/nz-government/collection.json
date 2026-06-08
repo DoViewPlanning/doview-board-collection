@@ -1,6 +1,13 @@
 {
+  "version": "v1.2.1",
+  "title": "NZ Whole of Government DoView Board",
+  "subtitle": "A DoView Collection — illustrative agency boards under one whole-of-government model",
+  "status": "Proof of Concept – Not Endorsed",
+  "currentTitle": "NZ Government",
   "featured": {
     "title": "NZ Government Targets",
+    "eyebrow": "Start here · the apex of this collection",
+    "description": "Under this box would be a full DoView Board of overall government outcomes (to illustrate this it is currently just NZ Government Targets).",
     "file": "nz-government-targets-doview-board-dr-paul-duignan-doviewplanning-org-a013.html",
     "ref": "a013"
   },
