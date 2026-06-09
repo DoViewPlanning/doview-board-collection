@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.1",
+  "version": "v1.2.7",
   "collections": [
     {
       "title": "NZ Government",
@@ -9,6 +9,11 @@
     {
       "title": "European Union",
       "href": "european-union/",
+      "count": "1 board"
+    },
+    {
+      "title": "UK Government",
+      "href": "uk-government/",
       "count": "1 board"
     },
     {
