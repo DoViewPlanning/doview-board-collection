@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.1",
+  "version": "v1.3.0",
   "title": "Generic Initiative DoView Boards",
   "subtitle": "A DoView Collection — illustrative generic initiative boards",
   "status": "Illustrative only – Not Endorsed",
@@ -10,6 +10,60 @@
       "acronym": "Generic",
       "file": "illustrative-generic-organization-doview-board-dr-paul-duignan-doviewplanning-org-a072.html",
       "ref": "a072"
+    },
+    {
+      "title": "Generic Small Business",
+      "acronym": "Small Business",
+      "file": "generic-small-business-doview-board-dr-paul-duignan-doviewplanning-org-a077.html",
+      "ref": "a077"
+    },
+    {
+      "title": "Generic Nonprofit and Community Organization",
+      "acronym": "Nonprofit",
+      "file": "generic-nonprofit-community-organization-doview-board-dr-paul-duignan-doviewplanning-org-a080.html",
+      "ref": "a080"
+    },
+    {
+      "title": "Generic AI System Governance",
+      "acronym": "AI Governance",
+      "file": "generic-ai-system-governance-doview-board-dr-paul-duignan-doviewplanning-org-a085.html",
+      "ref": "a085"
+    },
+    {
+      "title": "Generic Family",
+      "acronym": "Family",
+      "file": "generic-family-doview-board-dr-paul-duignan-doviewplanning-org-a086.html",
+      "ref": "a086"
+    },
+    {
+      "title": "Generic Government Agency or Public Service",
+      "acronym": "Government",
+      "file": "generic-government-agency-public-service-doview-board-dr-paul-duignan-doviewplanning-org-a087.html",
+      "ref": "a087"
+    },
+    {
+      "title": "Generic Health Clinic",
+      "acronym": "Health Clinic",
+      "file": "generic-health-clinic-doview-board-dr-paul-duignan-doviewplanning-org-a088.html",
+      "ref": "a088"
+    },
+    {
+      "title": "Generic Personal Life and Career Planning",
+      "acronym": "Personal Planning",
+      "file": "generic-personal-life-career-planning-doview-board-dr-paul-duignan-doviewplanning-org-a089.html",
+      "ref": "a089"
+    },
+    {
+      "title": "Generic Project or Programme Delivery",
+      "acronym": "Project Delivery",
+      "file": "generic-project-program-delivery-doview-board-dr-paul-duignan-doviewplanning-org-a090.html",
+      "ref": "a090"
+    },
+    {
+      "title": "Generic School or Education Provider",
+      "acronym": "Education",
+      "file": "generic-school-education-provider-doview-board-dr-paul-duignan-doviewplanning-org-a091.html",
+      "ref": "a091"
     }
   ]
 }
