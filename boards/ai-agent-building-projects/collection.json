@@ -1,0 +1,41 @@
+{
+  "version": "v1.3.0",
+  "title": "AI-Agent Building Projects DoView Boards",
+  "subtitle": "A DoView Collection — illustrative AI-Agent Building Projects boards",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "AI-Agent Building Projects",
+  "sectionTitle": "AI-Agent Building Project DoView Boards",
+  "boards": [
+    {
+      "title": "Customer Support AI Agent Build",
+      "acronym": "AI Agent",
+      "file": "customer-support-ai-agent-build-doview-board-dr-paul-duignan-doviewplanning-org-113.html",
+      "ref": "113"
+    },
+    {
+      "title": "Research Assistant AI Agent Build",
+      "acronym": "AI Agent",
+      "file": "research-assistant-ai-agent-build-doview-board-dr-paul-duignan-doviewplanning-org-114.html",
+      "ref": "114"
+    },
+    {
+      "title": "Policy Analysis AI Agent Build",
+      "acronym": "AI Agent",
+      "file": "policy-analysis-ai-agent-build-doview-board-dr-paul-duignan-doviewplanning-org-115.html",
+      "ref": "115"
+    },
+    {
+      "title": "Compliance Review AI Agent Build",
+      "acronym": "AI Agent",
+      "file": "compliance-review-ai-agent-build-doview-board-dr-paul-duignan-doviewplanning-org-116.html",
+      "ref": "116"
+    },
+    {
+      "title": "Personal Productivity AI Agent Build",
+      "acronym": "AI Agent",
+      "file": "personal-productivity-ai-agent-build-doview-board-dr-paul-duignan-doviewplanning-org-117.html",
+      "ref": "117"
+    }
+  ],
+  "instruction": "Select a board to open the live DoView Board."
+}
