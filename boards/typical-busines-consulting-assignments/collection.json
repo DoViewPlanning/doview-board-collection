@@ -1,0 +1,53 @@
+{
+  "version": "v1.3.0",
+  "title": "Typical Business Consulting Assignments DoView Boards",
+  "subtitle": "A DoView Collection — illustrative typical business consulting assignment boards",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "Typical Business Consulting Assignments",
+  "sectionTitle": "Typical Business Consulting Assignment DoView Boards",
+  "boards": [
+    {
+      "title": "Strategy Review Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "strategy-review-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-112.html",
+      "ref": "112"
+    },
+    {
+      "title": "Service Redesign Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "service-redesign-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-113.html",
+      "ref": "113"
+    },
+    {
+      "title": "Organizational Transformation Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "organizational-transformation-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-114.html",
+      "ref": "114"
+    },
+    {
+      "title": "Evaluation and Impact Review Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "evaluation-and-impact-review-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-115.html",
+      "ref": "115"
+    },
+    {
+      "title": "Business Case Development Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "business-case-development-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-116.html",
+      "ref": "116"
+    },
+    {
+      "title": "Operating Model Design Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "operating-model-design-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-117.html",
+      "ref": "117"
+    },
+    {
+      "title": "AI / Digital Transformation Consulting Assignment",
+      "acronym": "Consulting",
+      "file": "ai-digital-transformation-consulting-assignment-doview-board-dr-paul-duignan-doviewplanning-org-118.html",
+      "ref": "118"
+    }
+  ],
+  "instruction": "Select a board to open the live DoView Board."
+}
