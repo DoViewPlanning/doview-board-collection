@@ -1,0 +1,123 @@
+{
+  "version": "v1.3.0",
+  "title": "UK Government DoView Board Collection",
+  "subtitle": "A DoView Collection — illustrative UK government department boards under one high-level UK government model",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "UK Government",
+  "instruction": "Just click on the white boxes because these currently have live DoView Boards under them.",
+  "sectionTitle": "UK Government Department DoView Boards",
+  "featured": {
+    "title": "UK Government Plan for Change and Five Missions",
+    "eyebrow": "Top-level UK Government Board",
+    "description": "Under this box would be a full DoView Board of all government high-level outcomes (to illustrate this it is currently the UK Plan for Change and Five Missions).",
+    "file": "uk-government-plan-for-change-and-five-missions-doview-board-dr-paul-duignan-doviewplanning-org-a041.html",
+    "ref": "a041"
+  },
+  "boards": [
+    {
+      "title": "HM Treasury",
+      "file": "uk-hm-treasury-doview-board-dr-paul-duignan-doviewplanning-org-092.html",
+      "ref": "092",
+      "status": "live"
+    },
+    {
+      "title": "Cabinet Office",
+      "file": "uk-cabinet-office-doview-board-dr-paul-duignan-doviewplanning-org-093.html",
+      "ref": "093",
+      "status": "live"
+    },
+    {
+      "title": "Home Office",
+      "file": "uk-home-office-doview-board-dr-paul-duignan-doviewplanning-org-094.html",
+      "ref": "094",
+      "status": "live"
+    },
+    {
+      "title": "Foreign, Commonwealth & Development Office",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Ministry of Defence",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Health and Social Care",
+      "file": "uk-department-of-health-and-social-care-doview-board-dr-paul-duignan-doviewplanning-org-095.html",
+      "ref": "095",
+      "status": "live"
+    },
+    {
+      "title": "Department for Education",
+      "file": "uk-department-for-education-doview-board-dr-paul-duignan-doviewplanning-org-096.html",
+      "ref": "096",
+      "status": "live"
+    },
+    {
+      "title": "Department for Work and Pensions",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Ministry of Justice",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department for Business & Trade",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department for Energy Security and Net Zero",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department for Transport",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department for Environment, Food & Rural Affairs",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department for Science, Innovation and Technology",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Ministry of Housing, Communities and Local Government",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department for Culture, Media and Sport",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Northern Ireland Office",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Scotland Office",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Wales Office",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Attorney General’s Office",
+      "status": "planned",
+      "disabled": true
+    }
+  ]
+}
